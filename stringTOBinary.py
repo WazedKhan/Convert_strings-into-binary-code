@@ -6,7 +6,6 @@ for i in value.split(' '):
 asci = []
 for i in string:
     asci.extend(ord(j) for j in i)
-print(asci)
 
 def asciTobin(numbers):
     value = []
