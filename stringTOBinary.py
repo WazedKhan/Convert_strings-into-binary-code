@@ -1,4 +1,4 @@
-value = 'My name A'
+value = input()
 string = []
 for i in value.split(' '):
     string.append(i)
